@@ -1,0 +1,81 @@
+body {
+    background-color: lightblue; /* Фоновый цвет */
+    background-image: url('images/background.jpg'); /* Фоновое изображение */
+    background-size: cover; /* Масштабировать изображение для заполнения экрана */
+    background-position: center; /* Центрировать изображение */
+    background-repeat: no-repeat; /* Не повторять изображение */
+    margin: 0; /* Убирает стандартные отступы */
+    font-family: 'Poppins', sans-serif; /* Применение нового шрифта */
+}
+
+header {
+    padding: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.7); /* Полупрозрачный фон для футера */
+    font-family: 'Poppins', sans-serif; /* Применение нового шрифта */
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    background-color: #007bff;
+    padding: 15px;
+}
+
+    nav ul li {
+        margin: 0 15px;
+    }
+
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            font-size: 18px;
+        }
+
+header {
+    text-align: center;
+    padding: 20px;
+}
+h1 {
+    font-size: 2.5rem; /* Крупный заголовок */
+    margin: 10px 0;
+}
+
+h3 {
+    font-size: 1.5rem; /* Меньший заголовок */
+    margin: 5px 0;
+}
+h2 { /*большой синий*/
+    font-size: 42px; /* Размер шрифта */
+    font-weight: bold; /* Жирность текста */
+    color: #0000CC; /* Цвет текста */
+    margin: 20px 0; /* Отступы сверху и снизу */
+    text-align: center; /* Центрирование текста */
+    text-transform: uppercase; /* Преобразование текста в верхний регистр */
+}
+h4 {
+    font-size: 22px;
+    font-weight: bold;
+    color: #0000CC;
+}
+h5 {
+    font-size: 22px;
+    font-weight: bold;
+    color: #99CCFF;
+}
+h6 {
+    font-size: 32px;
+    color: crimson; /* Малиновый цвет для заголовков h6 */
+}
+
+
+
