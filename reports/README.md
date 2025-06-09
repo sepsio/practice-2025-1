@@ -1,5 +1,3 @@
 # Отчёты в бинарных форматах
-
-- В этот файл добавьте ссылки на файлы отчётов и краткое описание к ним.
-- Файлы могут быть в форматах DOCX, PDF и др.
-- Структура отчёта по проектной практике приведена в файле [practice_report_template.docx](practice_report_template.docx).
+## Ссылка на скачивание отчёта Носовой Дарьи Сергеевны:
+[Скачать отчёт](https://docs.google.com/document/d/1BXuVD1uEdw_BWqzG1c3nk6tt5BZKKkCN/edit?usp=drive_link&ouid=104071188743485558884&rtpof=true&sd=true)
